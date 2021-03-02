@@ -10,7 +10,7 @@ public class MyApi {
 
 	@GetMapping
 	public String getMe() {
-		return "Hello from chetan mahajan, assingment-devops";
+		return "Hello from chetan mahajan, assingment-devops: I am in Develop branch";
 	}
 	
 }
